@@ -1,0 +1,25 @@
+How to Host laravel on Azure
+
+Create your Web App + Mysql
+
+Choose your Stack
+
+Install Composer
+
+Deploy your web app
+
+Create a duplicate of the env file
+
+Use
+
+copy .env.example .env 
+
+customise your database credentials
+
+generate key
+
+migrate tables
+add web.config
+
+change the default root to
+site\wwwroot\public
